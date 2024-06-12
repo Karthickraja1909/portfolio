@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">karthick raja </span>
             from <span className="purple"> Chennai, India.</span>
-            <br /> I am a final year student pursuing B.E. in Computer Science Engineering.
+            <br /> I am  graduate in B.E. in Computer Science Engineering.
             <br />
             Currently I am learning and developing user interactive websites & web applications and also to be a software engineer.
             <br />
